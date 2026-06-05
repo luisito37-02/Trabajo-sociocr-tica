@@ -4,6 +4,8 @@
 
 **Integrantes:** Luis Mejias C.I: 30309425, Christian Coronado C.I: 42.042.888 
 
+**Sección:** 701205
+
 **Texto analizado:** Capítulos 1, Proyecto GNU "Libre en su acepción de libertad" de Stallman, R. M. (2004).
 
 ## Análisis
